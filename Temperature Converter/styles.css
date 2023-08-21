@@ -15,17 +15,17 @@ h1{
 	 margin-left:230px;
 	 margin-top:100px;
      width: 1000px;
-     height:500px; 
-     background-color:#ab753eff;
-     display: flex;
-     flex-direction:column;
-     justify-content: center;
-     align-items: center;
+	 height:500px; 
+	 background-color:#ab753eff;
+	 display: flex;
+	 flex-direction:column;
+	 justify-content: center;
+	 align-items: center;
 	 border:2px solid black;
 }
 .converter .temp
 {	
-    text-align:center;
+     text-align:center;
      padding: 30px;
 }
 label{
